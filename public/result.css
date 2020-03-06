@@ -1,0 +1,20 @@
+.input{
+        border: 1px solid;
+        border-radius: 9px;
+        color: white;
+        flex-wrap: wrap;
+        margin: 0 auto;
+        width: 36%;
+}
+
+.btn{
+    background: rgb(32, 33, 36);
+    border-color: rgb(32, 33, 36);
+    border-radius: 25px;
+}
+
+.heading{
+    margin-top: 7px;
+    color: rgba(243, 244, 245, 0.34);
+    margin-left: 10px;
+}
